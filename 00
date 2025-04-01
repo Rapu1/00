@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,AZAN TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream//tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
 http://lifetvbd.xyz:8080/live/taw99/taw99/74.ts
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
@@ -43,7 +43,7 @@ https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m
 #EXTINF:-1 tvg-id="1" tvg-logo="https://s3.aynaott.com/storage/31a012aaae459ceec831726c0bc0c500" ,Channel I
 https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
 #EXTINF:-1 ,TIME TV 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://s3.aynaott.com/storage/21bfdd29c834c89ed523ac5eb73f3856" ,ETV
 https://aynaxpranto.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8
 http://lifetvbd.xyz:8080/live/taw99/taw99/9596.ts
@@ -53,7 +53,7 @@ https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m
 https://aynaxpranto.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
 #EXTINF:-1 ,NTV EUROPE
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://s3.aynaott.com/storage/ec81d49a4356db94d1bf54d0ab3ee504" ,RTV
 https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo="https://s3.aynaott.com/storage/f839442c4ee34248b3dbce6edd44d90b" ,SA TV
@@ -74,7 +74,7 @@ http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
 http://lifetvbd.xyz:8080/live/taw99/taw99/9448.ts
 #EXTINF:-1" ,NEWS 21
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,JONMOBHUMI TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,IBTV USA 
@@ -89,18 +89,22 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
 #EXTINF:-1 ,JATV TV
 https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
 #EXTINF:-1 ,SHADIN BANGLA TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,CB24 TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,NRB TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://flc2.technohaat.com/kidscreation_test/index.m3u8
 #EXTINF:-1 ,PADMA VISON
 http://padmaonline.duckdns.org:1935/pcv/pcv/playlist.m3u8
+#EXTINF:-1 ,THE CHANNEL TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,CHANNEL 5
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,SALAM TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtvuk1.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
