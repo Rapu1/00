@@ -16,8 +16,8 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/2570.ts
 #EXTINF:-1 ,INDEPENDENT TV
 http://lifetvbd.xyz:8080/live/taw99/taw99/119.ts
 #EXTINF:-1 ,CHANNEL 24
+http://tv.dgtv.xyz:8080/live/taw99/taw99/2573.ts
 https://ch24b.ncare.live/DU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhn/channel24-off.stream/playlist.m3u8
-#http://tv.dgtv.xyz:8080/live/taw99/taw99/2573.ts
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24 
 http://lifetvbd.xyz:8080/live/taw99/taw99/9471.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
@@ -25,8 +25,8 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/325.ts
 http://lifetvbd.xyz:8080/play/jz6rXbLvTUWj7LdSIVGKI_qE_NDOwzIWlRbm02modjE/ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2588.ts
 #EXTINF:-1 ,EKATTOR TV
+http://103.205.133.71/Ekattv/index.m3u8
 http://lifetvbd.xyz:8080/live/taw99/taw99/355.ts
-#http://103.205.133.71/Ekattv/index.m3u8
 #EXTINF:-1 ,DBC NEWS
 http://lifetvbd.xyz:8080/live/taw99/taw99/9591.ts
 #EXTINF:-1 ,DESH TV 
@@ -97,6 +97,8 @@ https://global.ncare.live/cb24/cb24.stream/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , JOURNAL 24
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
+#EXTINF:-1 ,SHADIN BANGLA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,JATV TV
 https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
 #EXTINF:-1 ,SALAM TV
