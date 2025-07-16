@@ -14,7 +14,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
 http://tv.dgtv.xyz:8080/live/taw99/taw99/74.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV NEWS
-http://tv.dgtv.xyz:8080/live/taw99/taw99/75.ts
+http://lifetvbd.xyz:8080/live/taw99/taw99/75.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2572.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpqPc1N-aemKAM_jA80BgLMZdJV2183SnI0MAPldTgg&s" ,SOMOY TV
@@ -41,8 +41,7 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/2566.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/363.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MY TV
-http://tv.dgtv.xyz:8080/live/taw99/taw99/43.ts
-https://mytvbangla.com/0.m3u8
+http://lifetvbd.xyz:8080/live/taw99/taw99/43.ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" , AL JAZERA
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -59,7 +58,7 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/9590.ts
 #EXTINF:-1 ,TIME TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/tracks-v1a1/mono.ts.m3u8
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
-http://tv.dgtv.xyz:8080/live/taw99/taw99/2801.ts
+http://lifetvbd.xyz:8080/live/taw99/taw99/2801.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
 http://lifetvbd.xyz:8080/live/taw99/taw99/263.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" ,EKUESHY TV
@@ -90,8 +89,6 @@ https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/playlist.m3u8
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 ,CBN TV
 http://tv.dgtv.xyz:8080/live/taw99/taw99/1514.ts
-#EXTINF:-1 ,PROJORMO TV
-https://video1.getstreamhosting.com:1936/8264/8264/chunklist_w389420327.m3u8
 #EXTINF:-1 ,SALAM TV
 http://tv.dgtv.xyz:8080/live/taw99/taw99/3690.tS
 #EXTINF:-1 ,GOPAL BUR 
