@@ -25,6 +25,8 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/2568.ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2573.ts
 https://ch24b.ncare.live/DU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhn/channel24-off.stream/playlist.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2573.ts
+#EXTINF:-1 ,CHANNEL 24
+https://ch24cdn.ncare.live/channel24/ch24office/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/9577.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
