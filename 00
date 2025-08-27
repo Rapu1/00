@@ -4,14 +4,14 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.ts.m3u8
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 ,QURAN TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/qurantvbangla.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/qurantvbangla.stream//tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,WAZ TV
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
 http://tv.dgtv.xyz:8080/live/taw99/taw99/74.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV NEWS
-http://lifetvbd.xyz:8080/live/taw99/taw99/75.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/75.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2572.ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/135.ts
@@ -56,7 +56,7 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/3006.ts
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2590.ts
 #EXTINF:-1 ,GTV  
-http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GAZI TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/9590.ts
 #EXTINF:-1 ,TIME TV 
@@ -67,7 +67,7 @@ https://cdn.streamcast.xyz/timetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
 http://tv.dgtv.xyz:8080/live/taw99/taw99/263.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" ,EKUESHY TV
-http://lifetvbd.xyz:8080/live/taw99/taw99/9596.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/9596.ts
 #EXTINF:-1" ,NEWS 21
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8
@@ -88,4 +88,4 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/2587.ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2596.ts
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" , TOFFEE NATOK
 http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
-http://lifetvbd.xyz:8080/live/taw99/taw99/9448.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/9448.ts
