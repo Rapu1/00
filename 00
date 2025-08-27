@@ -36,14 +36,13 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/2588.ts
 http://103.205.133.71/Ekattv/index.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/355.ts
 #EXTINF:-1 ,DBC NEWS
-http://lifetvbd.xyz:8080/live/taw99/taw99/9591.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/9591.ts
 #EXTINF:-1 ,DESH TV 
-http://lifetvbd.xyz:8080/live/taw99/taw99/2566.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/2566.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/363.ts
-http://tv.dgtv.xyz:8080/live/taw99/taw99/9472.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MY TV
-http://lifetvbd.xyz:8080/live/taw99/taw99/43.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/43.ts
 #EXTINF:-1 ,MY TV
 https://tvsen6.aynaott.com/mytv/index.m3u8?e=1750361484&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=b3cd30a1655ce7246061c03f03c678f4 
 #EXTINF:-1 ,JAGO NEWS 24
@@ -53,7 +52,7 @@ https://www.tbn24.com/api/video/20201_.m3u8
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://www.tbn24.com/live-tv-stream/20201_.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" ,CHANNEL I 
-http://lifetvbd.xyz:8080/live/taw99/taw99/3006.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/3006.ts
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2590.ts
 #EXTINF:-1 ,GTV  
@@ -66,7 +65,7 @@ https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2801.ts
 https://cdn.streamcast.xyz/timetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
-http://lifetvbd.xyz:8080/live/taw99/taw99/263.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/263.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" ,EKUESHY TV
 http://lifetvbd.xyz:8080/live/taw99/taw99/9596.ts
 #EXTINF:-1" ,NEWS 21
@@ -80,7 +79,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/81.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" ,RTV 
-http://lifetvbd.xyz:8080/live/taw99/taw99/3007.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/3007.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GLOBAL TV
