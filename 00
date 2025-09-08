@@ -45,8 +45,6 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/363.ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/43.ts
 #EXTINF:-1 ,MY TV
 https://tvsen6.aynaott.com/mytv/index.m3u8?e=1750361484&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=b3cd30a1655ce7246061c03f03c678f4 
-#EXTINF:-1 ,JAGO NEWS 24
-http://tv.dgtv.xyz:8080/live/taw99/taw99/38.ts
 #EXTINF:-1 ,TBN24 NEWS
 https://www.tbn24.com/api/video/20201_.m3u8
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
@@ -72,6 +70,7 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/9596.ts
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8
 https://bd.ncare.live/news21bd/news21bdbox.stream/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" ,NTV 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2578.ts
 #EXTINF:-1 ,NTV EUROPE
@@ -89,3 +88,5 @@ http://tv.dgtv.xyz:8080/live/taw99/taw99/2596.ts
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" , TOFFEE NATOK
 http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/9448.ts
+#EXTINF:-1 ,JAGO NEWS 24
+http://tv.dgtv.xyz:8080/live/taw99/taw99/38.ts
