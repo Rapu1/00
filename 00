@@ -6,33 +6,35 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 ,WAZ TV
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
 http://tv.dgtv.xyz:8080/live/taw99/taw99/74.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV NEWS
 http://tv.dgtv.xyz:8080/live/taw99/taw99/75.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
-http://tv.dgtv.xyz:8080/live/taw99/taw99/2572.ts
-http://tv.dgtv.xyz:8080/live/taw99/taw99/135.ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/84.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpqPc1N-aemKAM_jA80BgLMZdJV2183SnI0MAPldTgg&s" ,SOMOY TV
-http://lifetvbd.xyz:8080/live/taw99/taw99/2570.ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2570.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/9343.ts
 #EXTINF:-1 ,INDEPENDENT TV
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2568.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/119.ts
 #EXTINF:-1 ,CHANNEL 24
-http://tv.dgtv.xyz:8080/live/taw99/taw99/2573.ts
 https://ch24b.ncare.live/DU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhn/channel24-off.stream/playlist.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2573.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/83.ts
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/9577.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/502.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
 http://lifetvbd.xyz:8080/play/jz6rXbLvTUWj7LdSIVGKI_qE_NDOwzIWlRbm02modjE/ts
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2588.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/325.ts
 #EXTINF:-1 ,EKATTOR TV
 http://103.205.133.71/Ekattv/index.m3u8
 http://tv.dgtv.xyz:8080/live/taw99/taw99/355.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/9480.ts
 #EXTINF:-1 ,DBC NEWS
 http://tv.dgtv.xyz:8080/live/taw99/taw99/9591.ts
+http://tv.dgtv.xyz:8080/live/taw99/taw99/171.ts
 #EXTINF:-1 ,DESH TV 
 http://tv.dgtv.xyz:8080/live/taw99/taw99/2566.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 
