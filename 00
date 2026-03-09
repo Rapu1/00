@@ -20,25 +20,24 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24 
 http://103.229.254.25:7001/play/a06i/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=2407200.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1773190716:KeyName=prod_linear:Signature=YJ5N5ADX2ggxztiyBfAFYWRQVveA_JQlwSKQOnBzhzZYgvSOe-K-zKWtjN7VSOq7p-jh8Upsre-aqGvv4DlcCA"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 ,EKATTOR TV
 http://103.205.133.71/Ekattv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 , STAR NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 ,DBC NEWS
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 ,DESH TV 
-https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1773190744:KeyName=prod_linear:Signature=cS_r9kPMt2gQ4xUinp0Ac3r4kJuoSzmueSa2MsdC6aVePvT7dSzxdSv-NeE_qrRFYj4awzadWPerpMOo3XptBw"}
+http://103.229.254.25:7001/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MY TV
-https://tvsen6.aynascope.net/mytv/index.m3u8?e=1773030596&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4aeaa99811da5e919a65741dfedd643f
+http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" ,CHANNEL I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
@@ -49,20 +48,35 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" ,EKUESHY TV
-https://edge2.roarzone.info:8447/roarzone/edge2/banglavision/index.m3u8?token=e6d4da30b5d64fa3394232b01c683aa660b4a703-3bcf6282e399c154d17e796191ec4bc4-1773027866-1773024266
+http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" ,NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" ,RTV 
+http://103.229.254.25:7001/play/a068/index.m3u8
 http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
+#EXTINF:-1 ,SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 ,UNMOCON TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/unmochon.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TIME TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/timetvusa.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GREEN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/index.m3u8?token=832b4a120274caf59b852a2b422b7edb416b91dd-cd9d0ad684d029afc93d39a769f32caa-1773027866-1773024266
+http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 ,GLOBAL TV
 https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=98267758eb31dce79d4d1749e62443b115f2ee29-56e74944fbaf082c4dd8843cd71264e4-1773027866-1773024266
+#EXTINF:-1 ,NAGORIK TV
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" ,BOISHAKHI
-https://edge2.roarzone.info:8447/roarzone/bk/61/index.m3u8?token=fccdb5b06dbebfb1693edc8ede6faf764a7b2a21-ad9348b2613e7a580fce775bce543baa-1773027866-1773024266
-#EXTINF:-1 , NATOK TV
+http://103.229.254.25:7001/play/a067/index.m3u8
+#EXTINF:-1 ,NATOK TV
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,NEWS 21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 ,NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 ,CHANNEL 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
