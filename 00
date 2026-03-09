@@ -76,6 +76,8 @@ https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,NEWS 21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 ,CB24 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 ,CHANNEL 16
