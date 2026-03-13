@@ -27,7 +27,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 http://103.229.254.25:7001/play/a09k/index.m3u8
-https://cdn-alpha.cloudflexnet.fun/astidn/stream.m3u8?id=f6d971e474
 #EXTINF:-1 ,EKATTOR TV
 http://103.205.133.71/Ekattv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -39,12 +38,10 @@ http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 ,DESH TV 
 http://103.229.254.25:7001/play/a05s/index.m3u8
-https://cdn-alpha.cloudflexnet.fun/astidn/stream.m3u8?id=4b76f7e333
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MY TV
 http://103.229.254.25:7001/play/a05z/index.m3u8
-https://cdn-alpha.cloudflexnet.fun/astidn/stream.m3u8?id=b3639a406f
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" ,CHANNEL I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
@@ -62,7 +59,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" ,RTV 
 http://103.229.254.25:7001/play/a068/index.m3u8
 http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-https://cdn-alpha.cloudflexnet.fun/astidn/stream.m3u8?id=ad2d89100e
 #EXTINF:-1 ,DEEPTO TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 ,SA TV
@@ -78,7 +74,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
-https://cdn-alpha.cloudflexnet.fun/astidn/stream.m3u8?id=5567c8c36d
 #EXTINF:-1 ,GLOBAL TV
 https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=98267758eb31dce79d4d1749e62443b115f2ee29-56e74944fbaf082c4dd8843cd71264e4-1773027866-1773024266
 #EXTINF:-1 ,NAGORIK TV
