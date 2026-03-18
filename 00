@@ -52,8 +52,8 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" ,EKUESHY TV
-http://103.229.254.25:7001/play/a05x/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" ,NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 ,CHANNEL 9
@@ -70,6 +70,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 ,GLOBAL TV
 https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=98267758eb31dce79d4d1749e62443b115f2ee29-56e74944fbaf082c4dd8843cd71264e4-1773027866-1773024266
+http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:-1 ,NAGORIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CHANNEL S
@@ -85,5 +86,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 ,TOFFEE NATOK
+https://sm-monirul.top/Toffee/live.php?id=b1ba8efdd99d&e=.m3u8
 #EXTINF:-1 ,MADANI TV
 http://103.229.254.25:7001/play/a05p/index.m3u8
