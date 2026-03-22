@@ -46,7 +46,7 @@ http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" ,CHANNEL I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+http://103.229.254.25:7001/play/a06b/index.m3u8
 #EXTINF:-1 ,GTV  
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GAZI TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
@@ -69,6 +69,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 ,GLOBAL TV
 https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=98267758eb31dce79d4d1749e62443b115f2ee29-56e74944fbaf082c4dd8843cd71264e4-1773027866-1773024266
 http://103.229.254.25:7001/play/a05o/index.m3u8
