@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,AZAN TV
+EXTINF:-1 ,AZAN TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 ,WAZ TV
+EXTINF:-1 ,WAZ TV
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1 ,MADANI TV
+http://103.229.254.25:7001/play/a05p/index.m3u8
 #EXTINF:-1 ,ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
@@ -90,5 +92,4 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 ,TOFFEE NATOK
 https://sm-monirul.top/Toffee/live.php?id=b1ba8efdd99d&e=.m3u8
-#EXTINF:-1 ,MADANI TV
-http://103.229.254.25:7001/play/a05p/index.m3u8
+
