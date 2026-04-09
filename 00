@@ -69,7 +69,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 ,NAGORIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,NATOK TV
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
