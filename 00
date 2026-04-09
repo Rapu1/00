@@ -3,7 +3,7 @@ EXTINF:-1 ,AZAN TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 EXTINF:-1 ,WAZ TV
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 ,MADANI TV
+EXTINF:-1 ,MADANI TV
 http://103.229.254.25:7001/play/a05p/index.m3u8
 #EXTINF:-1 ,ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
@@ -30,6 +30,7 @@ http://cdn01.palki.tv/live/TBN24-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 http://103.229.254.25:7001/play/a09k/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,EKATTOR TV
 http://103.205.133.71/Ekattv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -49,6 +50,7 @@ http://103.229.254.25:7001/play/a05z/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
 http://103.229.254.25:7001/play/a06b/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GTV  
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GAZI TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
