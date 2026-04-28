@@ -5,6 +5,12 @@ EXTINF:-1 ,WAZ TV
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 EXTINF:-1 ,MADANI TV
 http://103.229.254.25:7001/play/a05p/index.m3u8
+EXTINF:-1 ,CHANNEL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+EXTINF:-1 ,DEEPTO TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+EXTINF:-1 ,SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 ,ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
@@ -39,6 +45,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 ,DBC NEWS
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 ,CHANNEL 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DESH TV 
 http://103.229.254.25:7001/play/a05s/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
@@ -57,12 +65,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" ,NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 ,CHANNEL 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 ,DEEPTO TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 ,SA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
