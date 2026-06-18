@@ -13,7 +13,10 @@ EXTINF:-1 ,SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 EXTINF:-1 ,ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
-
+EXTINF:-1 ,NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 ,FOOTBALL WORLD CUP
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
@@ -73,8 +76,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 ,CB24 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,NRB TV
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 , T SPORTS
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 , T SPORTS 2
