@@ -32,7 +32,7 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
 https://sm-monirul.top/toffee/play/islamic_tv.m3u8
 #EXTINF:-1 ,SOMOY TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
@@ -98,7 +98,7 @@ https://cdn-dish-fnet.toon-service-ltd.workers.dev/FTV-BOX/stream.m3u8?id=496b22
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 ,SOMOY TV 3
 https://cdn-dish-fnet.toon-service-ltd.workers.dev/FTV-BOX/stream.m3u8?id=49397fbc1c20870bb|Referer: https://tv.bdtoonlivetv.com/
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 , TOFFEE SPORTS 1
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
 #EXTINF:-1 , TOFFEE SPORTS 2
