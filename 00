@@ -18,13 +18,16 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 ,FOOTBALL WORLD CUP
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+https://lifetvbd.xyz:8880/play/0yJwEugpFDVT7vZk68Cji3Cf8_9wP30nje1x_UwLKH4/ts
 #EXTINF:-1 ,FOOTBALL WORLD CUP 2
 http://198.195.239.50:8095/tsports/index.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+https://lifetvbd.xyz:8880/play/0yJwEugpFDVT7vZk68Cji7kAroeh5k09JXHJF4zuqyo/ts
 #EXTINF:-1 ,FOOTBALL WORLD CUP 3
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/unt-s/video.m3u8
+https://lifetvbd.xyz:8880/play/0yJwEugpFDVT7vZk68Cji1Ri2N5cl5N2JdXBRLnhBio/ts
 #EXTINF:-1 ,FOOTBALL WORLD CUP 4
 https://live.inplyr.com/room/168740.m3u8
 #EXTINF:-1 ,T SPORTS
@@ -101,8 +104,3 @@ http://198.195.239.50:8095/tsports/index.m3u8
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
 #EXTINF:-1 , TOFFEE SPORTS 2
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1781989210~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8X81_tqobQmvj9bpuZnvajGamU4bfsaAIQnX5fVyHnzJrqPGku_jN4Mp4c25ckI-ar7N0qcAiZLyP4A-04mJEJ
-#EXTINF:-1 , BIOSCOPE 1
-http://sm-monirul.top/ott/bioscope/index.m3u8
-#EXTINF:-1 , BIOSCOPE 2
-http://sm-monirul.top/ott/bioscope1/index.m3u8
-
