@@ -77,10 +77,12 @@ https://cdn.ghuddi.live/BD/Ekushey_New/playlist.m3u8|Referer=https://www.ghuddi.
 #EXTINF:-1 ,GTV
 https://cdn.ghuddi.live/BD/Gazi_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 http://103.102.27.173:84/GTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,GLOBAL TV
-https://cdn.ghuddi.live/BD/Global_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,SA TV
 https://cdn.ghuddi.live/BD/SATV_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
+#EXTINF:-1 , NAGORIK TV
+http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GLOBAL TV
+https://cdn.ghuddi.live/BD/Global_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,NATOK TV
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
