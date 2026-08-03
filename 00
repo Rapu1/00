@@ -59,6 +59,7 @@ https://cdn.ghuddi.live/BD/Rtv_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 https://cdn.ghuddi.live/BD/MYTV_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,GREEN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" ,CHANNEL I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
@@ -75,6 +76,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://cdn.ghuddi.live/BD/Ekushey_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,GTV
 https://cdn.ghuddi.live/BD/Gazi_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
+http://103.102.27.173:84/GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,GLOBAL TV
 https://cdn.ghuddi.live/BD/Global_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,SA TV
