@@ -15,7 +15,7 @@ EXTINF:-1 ,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 ,ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
-https://toffee-obiramtv.emonsa4.workers.dev/20.m3u8|Referer=https://obiramtvlive.pages.dev/
+https://toffee-obiramtv.emonsa4.workers.dev/21.m3u8|Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
@@ -29,7 +29,7 @@ https://cdn.ghuddi.live/BD/Jamuna_New/playlist.m3u8|Referer=https://www.ghuddi.t
 #EXTINF:-1 ,CHANNEL 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-https://akashgo-obiramtv.emonsa4.workers.dev/28.m3u8|Referer=https://obiramtvlive.pages.dev/
+https://akashgo-obiramtv.emonsa4.workers.dev/27.m3u8|Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 ,SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
@@ -113,4 +113,4 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,NEWS 21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 ,TOFFEE DRAMA
-https://toffee-obiramtv.emonsa4.workers.dev/52.m3u8|Referer=https://obiramtvlive.pages.dev/
+https://toffee-obiramtv.emonsa4.workers.dev/53.m3u8|Referer=https://obiramtvlive.pages.dev/
