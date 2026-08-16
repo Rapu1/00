@@ -103,9 +103,10 @@ https://cdn.ghuddi.live/BD/Ekushey_New/playlist.m3u8|Referer=https://www.ghuddi.
 https://cdn.ghuddi.live/BD/SATV_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 , GTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
-https://cdn.ghuddi.live/BD/Gazi_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 , BOISHAKHI TV
 https://cdn.ghuddi.live/BD/Boishakhi_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
+#EXTINF:-1 , CHANNEL S
+https://cdn.ghuddi.live/BD/Channel_S_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,GLOBAL TV
 https://cdn.ghuddi.live/BD/Global_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 ,NATOK TV
