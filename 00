@@ -61,7 +61,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
 https://cdn.ghuddi.live/BD/News24_DontShare/playlist.m3u8|Referer=https://www.ghuddi.tv/
-https://public.iptv-channels.workers.dev/tvs6/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+https://ay-obiram.emonsa4.workers.dev/news-24-bd.m3u8|Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 https://cdn.ghuddi.live/BD/Ekhon_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
@@ -80,18 +80,18 @@ https://bscl.iptv-stock.workers.dev/hls/star_news_hd_720/index.m3u8|Referer=http
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://cdn.ghuddi.live/BD/DBC_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
-https://public.iptv-channels.workers.dev/tvs6/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+https://ay-obiram.emonsa4.workers.dev/dbc-news.m3u8|Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 ,DESH TV 
 http://103.229.254.25:7001/play/a05s/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://cdn.ghuddi.live/BD/Desh_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
-https://public.iptv-channels.workers.dev/tvs6/ryFkXfd1a4CQ7mMdc820/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+https://ay-obiram.emonsa4.workers.dev/desh-tv.m3u8|Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://cdn.ghuddi.live/BD/ATN_News_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
-https://public.iptv-channels.workers.dev/tvs6/da6WMXAk/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+https://ay-obiram.emonsa4.workers.dev/atn-news.m3u8|Referer=https://obiramtvlive.pages.dev/
 #EXTINF:-1 ,RTV
 https://cdn.ghuddi.live/BD/Rtv_New/playlist.m3u8|Referer=https://www.ghuddi.tv/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MY TV
